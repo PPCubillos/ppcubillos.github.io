@@ -1,9 +1,8 @@
-I am an Associate Professor (with tenure) at the [Haas School of Business](https://haas.berkeley.edu/) and the [Department of Economics](https://www.econ.berkeley.edu/) at UC Berkeley.
+I am a second-year PhD Student in Economics at [University College London](https://www.ucl.ac.uk/social-historical-sciences/economics)
 
-My research brings insights from psychology to bear on topics in economics, particularly topics relevant to developing countries. My current research agenda is centered on the economics of mental health in developing countries. Past projects include studying how improving sleep affects the economic outcomes of workers in India, how the endowment effect influences consumer demand for collateralized loans in Kenya, how research findings affect the beliefs and policy choices of mayors in Brazil, and how mixing rich and poor students in schools in India affects social preferences and behaviors.
+Previously, I have worked as a consultant at the Inter-American Development Bank and as a research assistant at University of Chile and PUC-Chile. I obtained my BA in Economics and MA in Economic Analysis at the University of Chile.
+My main topics of interest are labor/personnel, development, and health economics.
 
-Together with Frank Schilbach and Heather Schofield, I help run the [Behavioral Development Lab](https://behavioraldevlab.org/index.html) in India. I am a Faculty Research Fellow at the National Bureau of Economic Research (NBER), and a faculty affiliate at the The Abdul Latif Jameel Poverty Action Lab (JPAL). From 2018 to 2020, I served as an Associate Editor at the Journal of Political Economy.
+You can contact me at pedro.cubillos.24@ucl.ac.uk
 
-__[Curriculum Vitae](/pdf/Rao_CV_latest.pdf")__ (Updated May 2024)
-
-__[Research Statement](/pdf/Rao Research Statement.pdf")__ 
+__[Curriculum Vitae](/pdf/Cubillos_CV.pdf")__ 
