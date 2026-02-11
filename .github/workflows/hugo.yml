@@ -5,7 +5,7 @@ on:
   # Se ejecuta en cada push a la rama principal (main o master)
   push:
     branches:
-      - main  # Si tu rama principal se llama 'master', cambia esto a 'master'
+      - source  # Si tu rama principal se llama 'master', cambia esto a 'master'
   # Permite ejecutarlo manualmente desde la pestaña Actions
   workflow_dispatch:
 
