@@ -1,6 +1,6 @@
 relativeURLs = true
 title = "Pedro Cubillos"
-theme = "academimal"
+theme = "mytheme"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
