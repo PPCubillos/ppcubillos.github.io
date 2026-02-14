@@ -4,4 +4,4 @@ Previously, I have worked as a consultant at the Inter-American Development Bank
 
 My main topics of interest are labor/personnel, development, and health economics.
 
-__[Curriculum Vitae](/files/"Cubillos_CV.pdf")__ 
+__[Curriculum Vitae](/files/Cubillos_CV.pdf)__ 
