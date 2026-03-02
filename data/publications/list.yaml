@@ -1,4 +1,14 @@
 works:
+
+- title: "Smoke Signals: Understanding Temporal Dynamics of Wildfire Exposure on Health and Education"
+  pdflink: "/files/Wildfires_Chile.pdf"
+  coauthors: "Rubí Arrizaga, Damian Clarke, and J. Cristobal Ruiz-Tagle"
+  book: "Journal of Environmental Economics and Management, 2026"
+    - url: "https://dataverse.harvard.edu/"
+      text: "Replication package"
+  abstract: >
+      We study the impacts of wildfires in Chile mapping local exposure to over 1,000 large wild fires occurring over 17 wildfire seasons. We consider both how very local exposure patterns owing to changes in ambient conditions– such as wind, atmospheric and topographic con ditions– affect exposure to air pollution from wildfires, as well as how this exposure shapes health and educational outcomes both contemporaneously and in the years following exposure. We use tens of millions of population records on admissions to hospital, emergency department visits, birth outcomes (birth weight, size and gestational weeks), and students outcomes (GPA, standardized tests, and attendance rates). We find harmful effects of exposure to wildfires smoke onhealth, specifically among sensitive groups such as infants, and that these effects are transmitted over the life course onto worsen health and educational outcomes. This findings can be used for quantifying the benefits of fire prevention and suppression efforts as well as early warning and mitigation systems for wildfire smoke
+
 - title: "Affective Polarization and Democratic Erosion: Evidence from a Context of Weak Partisanship"
   pdflink: "https://www.cambridge.org/core/journals/political-science-research-and-methods/article/affective-polarization-and-democratic-erosion-evidence-from-a-context-of-weak-partisanship/1A201F28144C92FAE2A7BADAAC05F07D"
   book: "Political Science Research and Methods, 2025"
