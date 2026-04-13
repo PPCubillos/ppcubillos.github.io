@@ -5,6 +5,10 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>{{ .Site.Title }} | {{ .Title }}</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
         <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}">
         <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     </head>
@@ -12,28 +16,18 @@
         <div class="wrapper">
             <header>
                 <h1>{{ .Site.Title }}</h1>
+                <p class="subtitle">{{ .Site.Params.shortbio }}</p>
 
-                <!-- begin short bio -->
-                <p>{{ .Site.Params.shortbio }}</p>
-                <!-- end short bio -->
-
-                {{/*
-                <p class="contactinfo">
-                <img src="{{ "/icons/mail-symbol.svg" | relURL }}" class="octicons">
-                mailaddr@domain.edu
-                </p>
-                */}}
-
-                <!-- begin photo -->
                 {{ with .Site.Params.logo }}
-                <img src="{{ . | relURL }}" alt="Logo" />
+                <img src="{{ . | relURL }}" alt="Profile photo" class="profile-photo">
                 {{ end }}
-                <!-- end photo -->
 
-                <!-- begin contact info -->
-                {{ with .GetPage "/sections/contact.md" }}
-                {{ .Content }}
-                {{ end }}
-                <!-- end contact info -->
-
+                <div class="contact-info">
+                    {{ with .Site.Params.email }}
+                    <p><i class="fa-regular fa-envelope"></i><a href="mailto:{{ . }}">{{ . }}</a></p>
+                    {{ end }}
+                    {{ with .Site.Params.phone }}
+                    <p><i class="fa-solid fa-phone"></i><span>{{ . }}</span></p>
+                    {{ end }}
+                </div>
             </header>

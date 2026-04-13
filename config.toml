@@ -7,5 +7,7 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
     shortbio = "PhD Student in Economics, University College London"
-    logo = "yo.jpg" 
+    logo = "yo.jpg"
+    email = "pedro.cubillos.24@ucl.ac.uk"
+    phone = "+44 7771642488"
     
