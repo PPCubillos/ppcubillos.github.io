@@ -9,6 +9,7 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
         <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}">
         <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     </head>
@@ -21,6 +22,15 @@
                 {{ with .Site.Params.logo }}
                 <img src="{{ . | relURL }}" alt="Profile photo" class="profile-photo">
                 {{ end }}
+
+                <div class="social-icons">
+                    {{ with .Site.Params.twitter }}
+                    <a href="{{ . }}" target="_blank" title="X / Twitter"><i class="fa-brands fa-x-twitter"></i></a>
+                    {{ end }}
+                    {{ with .Site.Params.googlescholar }}
+                    <a href="{{ . }}" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+                    {{ end }}
+                </div>
 
                 <div class="contact-info">
                     {{ with .Site.Params.email }}

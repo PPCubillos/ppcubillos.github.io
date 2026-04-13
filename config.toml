@@ -10,4 +10,6 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
     logo = "yo.jpg"
     email = "pedro.cubillos.24@ucl.ac.uk"
     phone = "+44 7771642488"
+    twitter = "https://x.com/YOUR_HANDLE"
+    googlescholar = "https://scholar.google.com/citations?user=YOUR_ID"
     
