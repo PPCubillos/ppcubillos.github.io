@@ -24,14 +24,16 @@
                 </p>
                 */}}
 
-                <hr/>
-
-                {{ partial "sidebar.html" . }} 
-
                 <!-- begin photo -->
                 {{ with .Site.Params.logo }}
                 <img src="{{ . | relURL }}" alt="Logo" />
                 {{ end }}
                 <!-- end photo -->
+
+                <!-- begin contact info -->
+                {{ with .GetPage "/sections/contact.md" }}
+                {{ .Content }}
+                {{ end }}
+                <!-- end contact info -->
 
             </header>
