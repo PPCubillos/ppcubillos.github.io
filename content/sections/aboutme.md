@@ -1,4 +1,4 @@
-I am a second-year PhD Student in Economics at [<strong>University College London</strong>](https://www.ucl.ac.uk/social-historical-sciences/economics)
+I am a second-year PhD Student in Economics at __[University College London](https://www.ucl.ac.uk/social-historical-sciences/economics)__
 
 Previously, I have worked as a consultant at the Inter-American Development Bank and as a research assistant at University of Chile and PUC-Chile. I obtained my BA in Economics and MA in Economic Analysis at the University of Chile.
 
