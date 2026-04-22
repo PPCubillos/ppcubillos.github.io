@@ -30,14 +30,8 @@
                     {{ with .Site.Params.googlescholar }}
                     <a href="{{ . }}" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
                     {{ end }}
-                </div>
-
-                <div class="contact-info">
                     {{ with .Site.Params.email }}
-                    <p><i class="fa-regular fa-envelope"></i><a href="mailto:{{ . }}">{{ . }}</a></p>
-                    {{ end }}
-                    {{ with .Site.Params.phone }}
-                    <p><i class="fa-solid fa-phone"></i><span>{{ . }}</span></p>
+                    <a href="mailto:{{ . }}" title="Email"><i class="fa-regular fa-envelope"></i></a>
                     {{ end }}
                 </div>
             </header>
