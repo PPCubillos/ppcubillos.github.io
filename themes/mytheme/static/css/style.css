@@ -220,6 +220,7 @@ footer {
   border-radius: 4px;
   display: block;
   margin: 0 0 14px;
+  filter: sepia(80%) hue-rotate(-20deg) brightness(1.05);
 }
 
 /* ===== Social Icons ===== */
