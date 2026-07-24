@@ -17,7 +17,7 @@ works:
   book: "<em><strong>Political Science Research and Methods</strong></em>, 2025"
   coauthors: "Loreto Cox and Carmen Le Foulon"
   links:
-    - url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EA4TCN"
+    - url: "/files/CoxCubillosLeFoulon-2025.pdf"
       text: "Replication package"
   abstract: >
     Can the “us versus them” dynamic in politics undermine support for democracy even in the absence of strong party identification? While much is known about affective polarization in the USA, its impact on democratic commitment in other contexts remains understudied. We examine Chile’s 2022 plebiscite, where voters decided whether to approve or reject a new constitution amid low levels of party trust and identification. Through an experiment using an unobtrusive primer, we successfully induced short-term affective polarization, heightening animosity across multiple dimensions. Our findings show that individuals primed to this polarization significantly reduced their support for democracy, mirroring patterns observed in the USA. These results emphasize the importance of studying affective polarization, especially in regions with fragile democratic histories.
